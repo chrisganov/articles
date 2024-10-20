@@ -1,12 +1,17 @@
 "use client";
 
-export default function Error({ error, reset }: { error: Error & { digest?: string }; reset: () => void }) {
-	console.log(error.message);
+import { Button } from "@/components/ui/button";
+import * as m from "@i18n";
+
+import { useRouter } from "@navigation";
+
+export default function Error({ error }: { error: Error & { digest?: string }; reset: () => void }) {
+	const { replace } = useRouter();
 
 	return (
-
-		<div className="mx-auto max-w-[52rem] px-4 py-12 sm:px-6 md:px-8 lg:max-w-6xl xl:px-12">
-			<h1 className="text-4xl font-bold text-center leading-none tracking-tight">{m.home__title()}</h1>
-      </div>
+		<div>
+			<h2>{error.message}</h2>
+			<Button onClick={() => replace("/")}>{m.go_home()}</Button>
+		</div>
 	);
 }

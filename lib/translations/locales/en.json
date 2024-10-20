@@ -8,5 +8,6 @@
   "home__title": "Welcome to my blog",
   "error__invalid_data": "Data is invalid",
   "error__something_went_wrong": "Something went wrong",
-  "error__not_found": "Item not found"
+  "error__not_found": "Item not found",
+  "go_home": "Go home"
 }

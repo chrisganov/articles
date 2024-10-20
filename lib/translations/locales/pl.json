@@ -8,5 +8,6 @@
   "home__title": "Witamy na moim blogu",
   "error__invalid_data": "Dane są nieprawidłowe",
   "error__something_went_wrong": "Coś poszło nie tak",
-  "error__not_found": "Element nie został znaleziony"
+  "error__not_found": "Element nie został znaleziony",
+  "go_home": "Idź do domu"
 }
