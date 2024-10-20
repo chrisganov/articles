@@ -1,0 +1,82 @@
+[
+	{
+		"id": "6b3a49bd-6778-4d7c-a71a-ed5be3f8e9ae",
+		"title": "Explorando las profundidades del océano",
+		"subTitle": "Un viaje bajo las olas",
+		"description": "Descubre las maravillas ocultas de las profundidades marinas, desde criaturas misteriosas hasta paisajes submarinos.",
+		"content": "El océano, que cubre más del 70% de la superficie de la Tierra, sigue siendo en gran parte inexplorado. Con cada inmersión, los investigadores descubren nuevas especies y ecosistemas, ofreciendo una visión única sobre la historia y el futuro del planeta.",
+		"imageSrc": "/images/image1.jpg"
+	},
+	{
+		"id": "a8cb0a57-69fd-4fdf-a035-7bd3e5e1803f",
+		"title": "El futuro de la IA en la atención médica",
+		"subTitle": "Revolucionando la medicina con tecnología",
+		"description": "La inteligencia artificial está transformando la industria de la salud, proporcionando nuevas formas de diagnosticar y tratar enfermedades.",
+		"content": "Las herramientas impulsadas por IA se utilizan cada vez más para analizar datos médicos, mejorar la precisión diagnóstica e incluso asistir en cirugías. A medida que la tecnología avanza, el potencial de la IA en el ámbito de la salud continúa creciendo.",
+		"imageSrc": "/images/image2.jpg"
+	},
+	{
+		"id": "e4905cee-cb72-4d55-a2c2-c7081256135f",
+		"title": "Vida sostenible en las ciudades modernas",
+		"subTitle": "Construyendo un futuro más verde",
+		"description": "Las áreas urbanas están adoptando prácticas sostenibles para reducir su impacto ambiental y promover un estilo de vida más saludable.",
+		"content": "Desde edificios ecológicos hasta energía renovable, las ciudades de todo el mundo están abrazando la sostenibilidad. Este artículo explora cómo la planificación urbana y la tecnología pueden crear entornos más respetuosos con el medio ambiente.",
+		"imageSrc": "/images/image3.jpg"
+	},
+	{
+		"id": "5360bbb7-d6a2-4999-8c57-661ab4dbdf9e",
+		"title": "El arte del diseño minimalista",
+		"subTitle": "Menos es más",
+		"description": "El minimalismo en el diseño se centra en la simplicidad, funcionalidad y el uso de líneas limpias.",
+		"content": "El diseño minimalista ha ganado popularidad por su capacidad de crear espacios tranquilos y ordenados. En este artículo, exploramos los principios del diseño minimalista y cómo pueden aplicarse tanto en entornos físicos como digitales.",
+		"imageSrc": "/images/image4.jpg"
+	},
+	{
+		"id": "8f953437-8eec-4f92-ad1b-1d9a92bee128",
+		"title": "La historia de la exploración espacial",
+		"subTitle": "De la Luna a Marte",
+		"description": "Un repaso a los mayores logros de la humanidad en la exploración espacial, desde el primer alunizaje hasta las misiones en curso a Marte.",
+		"content": "La exploración espacial ha cautivado la imaginación humana durante siglos. Con los avances tecnológicos, hemos alcanzado nuevas fronteras, y este viaje está lejos de terminar.",
+		"imageSrc": "/images/image5.jpg"
+	},
+	{
+		"id": "c042dd58-8dfb-49e0-974f-f68f343d707f",
+		"title": "Dominando el arte del trabajo remoto",
+		"subTitle": "Cómo mantener la productividad en cualquier lugar",
+		"description": "El trabajo remoto se ha convertido en la nueva norma, pero conlleva sus propios desafíos. Aprende cómo mantenerte productivo mientras trabajas desde casa.",
+		"content": "Con el auge del trabajo remoto, muchos profesionales están ajustándose a un nuevo entorno laboral. Desde crear un espacio de trabajo dedicado hasta mantener un equilibrio entre la vida personal y profesional, esta guía cubre los aspectos esenciales del trabajo remoto.",
+		"imageSrc": "/images/image6.jpg"
+	},
+	{
+		"id": "313f4f17-8f9e-4042-8c23-abc93181c469",
+		"title": "El auge de los vehículos eléctricos",
+		"subTitle": "Conduciendo hacia un futuro más limpio",
+		"description": "Los vehículos eléctricos están revolucionando la industria automotriz, ofreciendo una alternativa ecológica a los coches tradicionales.",
+		"content": "Con los avances en la tecnología de baterías y la creciente preocupación por el cambio climático, los vehículos eléctricos se están volviendo más accesibles y populares en todo el mundo. Este artículo explora los beneficios y desafíos de esta transición automotriz.",
+		"imageSrc": "/images/image7.jpg"
+	},
+	{
+		"id": "68f2fbb2-3c33-4b54-bd76-530bc6778d39",
+		"title": "La ciencia detrás de los superalimentos",
+		"subTitle": "Potencias nutricionales",
+		"description": "Los superalimentos están repletos de nutrientes esenciales y ofrecen numerosos beneficios para la salud. Conoce la ciencia detrás de estos alimentos populares.",
+		"content": "Desde la col rizada hasta la quinoa, los superalimentos se han convertido en un elemento básico en muchas dietas. Este artículo desglosa los beneficios nutricionales de los superalimentos y cómo pueden contribuir a un estilo de vida más saludable.",
+		"imageSrc": "/images/image8.jpg"
+	},
+	{
+		"id": "4a0e2a03-4b99-4bdf-ba99-e0eac452edbd",
+		"title": "Comprendiendo el cambio climático",
+		"subTitle": "El mayor desafío de nuestro tiempo",
+		"description": "El cambio climático está afectando cada rincón del planeta. Explora la ciencia detrás de este fenómeno y lo que se puede hacer para mitigar su impacto.",
+		"content": "A medida que aumentan las temperaturas globales, los efectos del cambio climático se vuelven más evidentes. Desde el derretimiento de los casquetes polares hasta eventos climáticos extremos, este artículo explora las causas y consecuencias del cambio climático.",
+		"imageSrc": "/images/image9.jpg"
+	},
+	{
+		"id": "dcfe65d6-d892-492b-b88b-e70b44c285f1",
+		"title": "La evolución de los smartphones",
+		"subTitle": "De dispositivos simples a ordenadores de bolsillo",
+		"description": "Los smartphones han recorrido un largo camino desde su creación. Descubre cómo estos dispositivos han evolucionado y qué depara el futuro.",
+		"content": "Los smartphones han transformado la forma en que nos comunicamos, trabajamos y nos entretenemos. Este artículo examina la historia de los smartphones y las innovaciones que los han convertido en una parte integral de la vida moderna.",
+		"imageSrc": "/images/image10.jpg"
+	}
+]

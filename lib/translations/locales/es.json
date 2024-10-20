@@ -1,0 +1,12 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "english": "English",
+  "polish": "Polski",
+  "spanish": "Español",
+  "seo__app__title": "Este es mi blog",
+  "seo__app__description": "Este es mi blog de prueba para practicar.",
+  "error__invalid_data": "Los datos no son válidos",
+  "error__something_went_wrong": "Algo salió mal",
+  "home__title": "Bienvenidos a mi blog",
+  "error__not_found": "Elemento no encontrado"
+}

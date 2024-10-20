@@ -1,0 +1,83 @@
+[
+	{
+		"id": "6b3a49bd-6778-4d7c-a71a-ed5be3f8e9ae",
+		"title": "Odkrywanie głębin oceanu",
+		"subTitle": "Podróż pod fale",
+		"description": "Odkryj ukryte cuda głębin morskich, od tajemniczych stworzeń po podwodne krajobrazy.",
+		"content": "Ocean, pokrywający ponad 70% powierzchni Ziemi, w dużej mierze pozostaje niezbadany. Każde nurkowanie odkrywa nowe gatunki i ekosystemy, oferując wgląd w historię i przyszłość naszej planety.",
+		"imageSrc": "/images/image1.jpg"
+	},
+	{
+		"id": "a8cb0a57-69fd-4fdf-a035-7bd3e5e1803f",
+		"title": "Przyszłość AI w opiece zdrowotnej",
+		"subTitle": "Rewolucjonizowanie medycyny dzięki technologii",
+		"description": "Sztuczna inteligencja zmienia branżę opieki zdrowotnej, oferując nowe sposoby diagnozowania i leczenia chorób.",
+		"content": "Narzędzia oparte na sztucznej inteligencji są coraz częściej wykorzystywane do analizy danych medycznych, poprawy dokładności diagnostyki, a nawet wsparcia w operacjach. Wraz z rozwojem technologii, potencjał AI w opiece zdrowotnej nadal rośnie.",
+		"imageSrc": "/images/image2.jpg"
+	},
+	{
+		"id": "e4905cee-cb72-4d55-a2c2-c7081256135f",
+		"title": "Zrównoważone życie w nowoczesnych miastach",
+		"subTitle": "Budowanie zielonej przyszłości",
+		"description": "Obszary miejskie wprowadzają zrównoważone praktyki, aby zmniejszyć swój wpływ na środowisko i promować zdrowszy styl życia.",
+		"content": "Od zielonych budynków po odnawialne źródła energii, miasta na całym świecie przyjmują zrównoważone rozwiązania. Ten artykuł bada, jak urbanistyka i technologie mogą stworzyć bardziej ekologiczne środowiska.",
+		"imageSrc": "/images/image3.jpg"
+	},
+	{
+		"id": "5360bbb7-d6a2-4999-8c57-661ab4dbdf9e",
+		"title": "Sztuka minimalistycznego designu",
+		"subTitle": "Mniej znaczy więcej",
+		"description": "Minimalizm w designie skupia się na prostocie, funkcjonalności i wykorzystaniu czystych linii.",
+		"content": "Minimalistyczny design zyskał na popularności ze względu na zdolność do tworzenia spokojnych, uporządkowanych przestrzeni. W tym artykule przyglądamy się zasadom minimalistycznego designu i jak można je zastosować zarówno w fizycznych, jak i cyfrowych środowiskach.",
+		"imageSrc": "/images/image4.jpg"
+	},
+	{
+		"id": "8f953437-8eec-4f92-ad1b-1d9a92bee128",
+		"title": "Historia eksploracji kosmosu",
+		"subTitle": "Od Księżyca do Marsa",
+		"description": "Przegląd największych osiągnięć ludzkości w eksploracji kosmosu, od pierwszego lądowania na Księżycu po trwające misje na Marsa.",
+		"content": "Eksploracja kosmosu fascynuje ludzką wyobraźnię od wieków. Dzięki postępom w technologii dotarliśmy do nowych granic, a nasza podróż w kosmos dopiero się zaczyna.",
+		"imageSrc": "/images/image5.jpg"
+	},
+	{
+		"id": "c042dd58-8dfb-49e0-974f-f68f343d707f",
+		"title": "Mistrzostwo w pracy zdalnej",
+		"subTitle": "Jak być produktywnym wszędzie",
+		"description": "Praca zdalna stała się nową normą, ale niesie ze sobą własne wyzwania. Dowiedz się, jak zachować produktywność podczas pracy z domu.",
+		"content": "Wraz ze wzrostem pracy zdalnej, wielu profesjonalistów dostosowuje się do nowego środowiska pracy. Od tworzenia dedykowanej przestrzeni roboczej po zachowanie równowagi między życiem zawodowym a prywatnym, ten przewodnik obejmuje najważniejsze aspekty pracy zdalnej.",
+		"imageSrc": "/images/image6.jpg"
+	},
+	{
+		"id": "313f4f17-8f9e-4042-8c23-abc93181c469",
+		"title": "Wzrost popularności pojazdów elektrycznych",
+		"subTitle": "Droga do czystszej przyszłości",
+		"description": "Pojazdy elektryczne rewolucjonizują przemysł motoryzacyjny, oferując ekologiczną alternatywę dla tradycyjnych samochodów.",
+		"content": "Dzięki postępom w technologii baterii i rosnącej trosce o zmiany klimatyczne, pojazdy elektryczne stają się coraz bardziej dostępne i popularne na całym świecie. Ten artykuł bada korzyści i wyzwania związane z tym motoryzacyjnym przełomem.",
+		"imageSrc": "/images/image7.jpg"
+	},
+	{
+		"id": "68f2fbb2-3c33-4b54-bd76-530bc6778d39",
+		"title": "Nauka o superżywności",
+		"subTitle": "Moc odżywcza",
+		"description": "Superżywność jest bogata w niezbędne składniki odżywcze i oferuje liczne korzyści zdrowotne. Dowiedz się, jaka nauka stoi za tymi popularnymi produktami.",
+		"content": "Od jarmużu po komosę ryżową, superżywność stała się podstawą wielu diet. Ten artykuł przedstawia korzyści zdrowotne superżywności i jak mogą one przyczynić się do zdrowszego stylu życia.",
+    		"imageSrc": "/images/image8.jpg"
+
+	},
+	{
+		"id": "4a0e2a03-4b99-4bdf-ba99-e0eac452edbd",
+		"title": "Zrozumienie zmian klimatycznych",
+		"subTitle": "Największe wyzwanie naszych czasów",
+		"description": "Zmiany klimatyczne wpływają na każdy zakątek globu. Poznaj naukę stojącą za nimi i co można zrobić, aby zminimalizować ich wpływ.",
+		"content": "W miarę wzrostu globalnych temperatur, skutki zmian klimatycznych stają się coraz bardziej widoczne. Od topnienia lodowców po ekstremalne zjawiska pogodowe, ten artykuł bada przyczyny i konsekwencje zmian klimatycznych.",
+		"imageSrc": "/images/image9.jpg"
+	},
+	{
+		"id": "dcfe65d6-d892-492b-b88b-e70b44c285f1",
+		"title": "Ewolucja smartfonów",
+		"subTitle": "Od prostych urządzeń do kieszonkowych komputerów",
+		"description": "Smartfony przeszły długą drogę od swojego powstania. Odkryj, jak te urządzenia się rozwijały i co przyniesie przyszłość.",
+		"content": "Smartfony zrewolucjonizowały sposób, w jaki się komunikujemy, pracujemy i bawimy. Ten artykuł przygląda się historii smartfonów oraz innowacjom, które uczyniły je integralną częścią nowoczesnego życia.",
+		"imageSrc": "/images/image10.jpg"
+	}
+]
